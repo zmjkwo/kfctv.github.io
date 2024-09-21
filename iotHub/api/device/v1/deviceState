@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "errorCode": null,
+    "errorMessage": null,
+    "data": {
+        "sn": "",
+        "isActive": 1,
+        "openWifi": 1,
+        "openQuickNet": 1,
+        "changeSimCard": 1,
+        "wifiName": "mywifi",
+        "wifiPwd": "12345678",
+        "hideWifi": 0,
+        "wifiBand": 2,
+        "outCardOpen": 1
+    }
+}
